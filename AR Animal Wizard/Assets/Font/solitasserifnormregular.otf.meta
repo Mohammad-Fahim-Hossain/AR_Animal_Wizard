@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd5ca72f6630c5348b25af7ede1fbbcf
+timeCreated: 1513970476
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Solitas Serif
+  fontNames:
+  - Solitas Serif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
